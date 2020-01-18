@@ -1,3 +1,4 @@
+.idea/
 /public/.htaccess
-init.*.php
+config.php
 vendor
